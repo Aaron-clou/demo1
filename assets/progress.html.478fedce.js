@@ -1,0 +1,1 @@
+import{_ as e,o as s,a as r,b as o,d as t}from"./app.23b62070.js";const a={},c={id:"progress",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#progress","aria-hidden":"true"},"#",-1),n=t(" progress"),d=[_,n];function h(i,p){return s(),r("h1",c,d)}var l=e(a,[["render",h]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as o,b as t,d as s}from"./app.23b62070.js";const c={},r={id:"java-demo",tabindex:"-1"},d=t("a",{class:"header-anchor",href:"#java-demo","aria-hidden":"true"},"#",-1),_=s(" java-demo"),n=[d,_];function h(i,m){return a(),o("h1",r,n)}var l=e(c,[["render",h]]);export{l as default};
