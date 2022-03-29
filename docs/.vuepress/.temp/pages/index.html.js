@@ -57,7 +57,7 @@ export const data = {
         "meta",
         {
           "property": "og:url",
-          "content": "https://vuepress-theme-hope-v2-demo.mrhope.site/"
+          "content": "https://vuepress-theme-hope-v2-demo.mrhope.site/demo1/"
         }
       ],
       [
@@ -92,7 +92,17 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "createdTime": 1648522957000,
+    "updatedTime": 1648522957000,
+    "contributors": [
+      {
+        "name": "李嘉海bjtu",
+        "email": "1374921025@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "readingTime": {
     "minutes": 0,
     "words": 0
