@@ -27,8 +27,8 @@ export default defineHopeConfig({
 
   locales: {
     '/': {
-      lang: 'zh',
-      title: 'TLeoBlog',
+      lang: 'en-US',
+      title: 'LeoBlog',
       description: '修仙路'
     }
   },

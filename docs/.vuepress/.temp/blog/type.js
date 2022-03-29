@@ -1,4 +1,4 @@
-export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-79fdd481","v-1dd9c8e3","v-fc7b6eba","v-02972d04","v-46094b16","v-15a69362","v-ef96e3d4"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slides/","keys":[]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":["v-79fdd481","v-1dd9c8e3","v-fc7b6eba","v-02972d04","v-46094b16","v-15a69362","v-ef96e3d4"]}}}
+export const typeMap = {"article":{"/":{"path":"/article/","keys":["v-79fdd481","v-1dd9c8e3","v-fc7b6eba","v-46094b16","v-02972d04","v-ef96e3d4","v-15a69362"]}},"encrypted":{"/":{"path":"/encrypted/","keys":[]}},"slide":{"/":{"path":"/slides/","keys":[]}},"star":{"/":{"path":"/star/","keys":[]}},"timeline":{"/":{"path":"/timeline/","keys":[]}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

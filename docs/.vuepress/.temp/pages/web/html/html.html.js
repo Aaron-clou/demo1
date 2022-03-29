@@ -17,7 +17,7 @@ export const data = {
         "meta",
         {
           "property": "og:site_name",
-          "content": "Theme Demo"
+          "content": "LeoBlog"
         }
       ],
       [
@@ -70,20 +70,22 @@ export const data = {
       "children": []
     }
   ],
-  "git": {
-    "createdTime": 1648522957000,
-    "updatedTime": 1648522957000,
-    "contributors": [
-      {
-        "name": "李嘉海bjtu",
-        "email": "1374921025@qq.com",
-        "commits": 1
-      }
-    ]
-  },
   "readingTime": {
     "minutes": 0.02,
     "words": 6
   },
   "filePathRelative": "web/html/html.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }
