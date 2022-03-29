@@ -9,12 +9,12 @@ export const pagesComponents = {
   "v-1dd9c8e3": defineAsyncComponent(() => import(/* webpackChunkName: "v-1dd9c8e3" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/database/database.html.vue")),
   // path: /progress/progress.html
   "v-fc7b6eba": defineAsyncComponent(() => import(/* webpackChunkName: "v-fc7b6eba" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/progress/progress.html.vue")),
+  // path: /java/java%E5%9F%BA%E7%A1%80/java.html
+  "v-ef96e3d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef96e3d4" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/java/java基础/java.html.vue")),
   // path: /web/css/css.html
   "v-46094b16": defineAsyncComponent(() => import(/* webpackChunkName: "v-46094b16" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/web/css/css.html.vue")),
   // path: /web/html/html.html
   "v-02972d04": defineAsyncComponent(() => import(/* webpackChunkName: "v-02972d04" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/web/html/html.html.vue")),
-  // path: /java/java%E5%9F%BA%E7%A1%80/java.html
-  "v-ef96e3d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ef96e3d4" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/java/java基础/java.html.vue")),
   // path: /web/javascript/js.html
   "v-15a69362": defineAsyncComponent(() => import(/* webpackChunkName: "v-15a69362" */"D:/800_Workspace/820_Web/826_LeoBlog/docs/.vuepress/.temp/pages/web/javascript/js.html.vue")),
   // path: /404.html

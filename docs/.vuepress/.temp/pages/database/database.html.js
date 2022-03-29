@@ -45,22 +45,20 @@ export const data = {
   },
   "excerpt": "",
   "headers": [],
+  "git": {
+    "createdTime": 1648522957000,
+    "updatedTime": 1648522957000,
+    "contributors": [
+      {
+        "name": "李嘉海bjtu",
+        "email": "1374921025@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "readingTime": {
     "minutes": 0,
     "words": 1
   },
   "filePathRelative": "database/database.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

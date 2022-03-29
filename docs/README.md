@@ -12,7 +12,7 @@ projects:
   - icon: icon-java1
     name: java
     desc: javase/jvm/spring
-    link: https://你的项目链接
+    link: https://aaron-clou.github.io/demo1/java/java%E5%9F%BA%E7%A1%80/java.html
 
   - icon: icon-database
     name: 数据库
